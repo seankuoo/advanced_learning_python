@@ -1,5 +1,6 @@
 .vscode
 .DS_Store
+__pycache__
 Sample-Dir-One
 Sample-Dir-Two
 new_states.json
